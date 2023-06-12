@@ -1,0 +1,19 @@
+{
+  "index": {
+    "welcome": "Welcome"
+  },
+  "mounts": {
+    "title": "Mounts",
+    "movement": "Movement",
+    "seats": "Seats"
+  },
+  "spells": {
+    "type": "Type",
+    "aspect": "Aspect",
+    "rank": "Rank"
+  },
+  "sidebar": {
+    "mounts": "Mounts",
+    "spells": "Spells"
+  }
+}

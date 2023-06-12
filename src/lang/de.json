@@ -1,0 +1,19 @@
+{
+  "index": {
+    "welcome": "Willkommen"
+  },
+  "mounts": {
+    "title": "Reittiere",
+    "movement": "Bewegung",
+    "seats": "Sitze"
+  },
+  "spells": {
+    "type": "Type",
+    "aspect": "Aspect",
+    "rank": "Rank"
+  },
+  "sidebar": {
+    "mounts": "Reittiere",
+    "spells": "Spells"
+  }
+}
